@@ -1,10 +1,8 @@
 # clojure-miniprofiler-liza
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library that lets you profile your `liza` stores with `clojure-miniprofiler`
 
-## Usage
-
-FIXME
+Read more: http://yellerapp.com/opensource/clojure-miniprofiler-liza.html
 
 ## License
 
